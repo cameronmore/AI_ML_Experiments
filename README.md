@@ -1,2 +1,2 @@
-# AI_ML_Experiments
-A repository for experimenting and testing machine-learning techniques, code, and embeddings.
+# ML Playground
+A repository for experimenting with machine learning techniques--Natural Language Processing, embedding, pre-training, etc.
